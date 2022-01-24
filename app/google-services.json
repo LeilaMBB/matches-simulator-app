@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "802324936360",
+    "project_id": "simulator-dio-sportheca-ad30f",
+    "storage_bucket": "simulator-dio-sportheca-ad30f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:802324936360:android:6ce46ea8303f8b14d2f49d",
+        "android_client_info": {
+          "package_name": "br.com.mobipower.simulator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "802324936360-den1t0hfde2alnuob1kd29ho54okp2ep.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdm-HMCguRobD5rsRk4Zt7spTmuXgHF40"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "802324936360-den1t0hfde2alnuob1kd29ho54okp2ep.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
